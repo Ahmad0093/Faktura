@@ -1,0 +1,265 @@
+
+* {
+
+margin: 0px;
+padding: 0px;
+
+}
+
+
+body {
+
+/** here is a temporary value 
+    background-color: green;
+    width: auto;
+    height:17cm;**/
+}
+    
+
+
+.header1 {
+
+height:6cm;
+width: auto;
+margin-left: 2cm;
+margin-right: 1cm;
+
+padding-bottom: 1,5cm;
+
+/** here is a temporary value 
+background-color: red;
+**/
+}
+
+
+
+h1 {
+
+color: black;
+margin-left: 2cm;
+margin-bottom: 1cm;
+margin-top: 1cm;
+font-family: 'Source Serif Pro', serif;
+display: inline-block;
+
+
+}
+
+
+.ttt {
+
+text-align: left;
+
+font-size: 18px;
+margin-left: 2cm    ;
+
+
+margin-right: 3cm;
+
+font-family: 'Source Serif Pro', serif;
+display: inline-block;
+font-weight: bold;
+
+
+}
+.tttt {
+
+text-align: right;
+padding: 25px;
+font-size: 18px;
+margin-right: 70px;
+margin-left: 30px;
+font-family: 'Source Serif Pro', serif;
+display: inline-block;
+font-weight: bold;
+
+
+
+
+}
+
+
+address {
+
+margin-left: 1,9cm;
+display: inline-block;
+
+
+
+
+}
+
+.container  {
+
+
+height: 380px;
+width: auto;
+margin-left: 2cm;
+margin-right: 1cm;
+font-size: 18px;
+padding-top: 10px;
+
+/** here is a temporary value 
+background-color: blue;
+ **/
+}
+
+
+
+
+.border1 {
+
+border: 2px none;
+margin-left: 2cm;
+
+background-color: rgb(4, 65, 4);
+width: 430px;
+height: 185px;
+display: inline-block;
+
+
+
+}
+
+
+
+.fakinfo1 {
+
+text-align: left;
+padding: 25px;
+font-size: 18px;
+margin-right: 70px;
+
+font-family: 'Source Serif Pro', serif;
+display: inline-block;
+font-weight: bold;
+color:  rgb(156, 146, 146);
+
+}
+.fakinfo2 {
+
+text-align: right;
+margin-left: 20px;
+font-size: 18px;
+font-family: 'Source Serif Pro', serif;
+display: inline-block;
+font-weight: bold;
+color: rgb(156, 146, 146);
+
+
+}
+
+
+.fakinfosp {
+font-weight: normal;
+font-size: 10;
+font-family: serif;
+color: rgb(121, 118, 118);
+
+
+}
+
+
+
+
+
+
+.small1  {
+
+font-size: smaller;
+font-family: 'Source Serif Pro', serif;
+text-align: left;
+margin-left: 2cm;
+margin-top: 10px;
+
+line-height: 13px;
+font-weight: bold;
+
+}
+
+.cl11 {
+
+max-width: 390px;
+height: 300px;
+border: 2px solid gray;
+
+margin-top: -281px;
+margin-left: 640px;
+
+padding: 30px;
+
+
+}
+
+.cl11 p {
+
+font-family: 'Slabo 27px', serif;
+line-height: 20px;
+font-weight: 30px;
+font-size:  15px;
+color: black;
+
+
+
+
+}
+
+
+h4  {
+
+
+font-family: 'Slabo 27px', serif;
+text-align: left;
+
+}
+
+
+
+
+.logo {
+
+
+    height: 200px;
+    width: auto;
+    
+
+
+background-image: url(https://image.ibb.co/c8jOvH/tele2.png);
+
+background-repeat: no-repeat;
+background-size: 200px 120px;
+background-position:49% 0% ;
+
+
+
+}
+
+
+.small2  {
+    
+    font-size: smaller;
+    font-family: 'Source Serif Pro', serif;
+  text-align: center;
+ 
+    line-height:  13px;
+    margin-top:  -80px;
+    margin-left:  4cm;
+    margin-right: 5cm;
+ 
+    padding-bottom: 5px;
+    font-weight: bold;
+
+    }
+
+
+    footer {
+
+
+        margin-left: 2cm;
+        margin-right: 1cm;
+        padding: 0;
+
+        /** Here is a temporary value
+        background-color: yellow;
+         **/
+    }
